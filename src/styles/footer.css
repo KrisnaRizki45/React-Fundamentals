@@ -1,0 +1,11 @@
+footer {
+    background-color: coral;
+    text-align: center;
+    padding: 3px;
+}
+
+.footer-text {
+    color: navy;
+    font-family: arial;
+
+}

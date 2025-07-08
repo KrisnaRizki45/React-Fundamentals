@@ -1,0 +1,83 @@
+{
+  "wishlist-items": [
+    {
+      "id": "1",
+      "name": "Coding"
+    },
+    {
+      "id": "2",
+      "name": "Makan"
+    },
+    {
+      "id": "3",
+      "name": "Mandi"
+    },
+    {
+      "id": "ac3a",
+      "name": "Tidur"
+    },
+    {
+      "id": "70fc",
+      "name": "hello"
+    },
+    {
+      "id": "1ead",
+      "name": "test"
+    },
+    {
+      "id": "d103",
+      "name": "aaaa"
+    },
+    {
+      "id": "8be5",
+      "name": "pri payer"
+    },
+    {
+      "id": "a0b2",
+      "name": ""
+    },
+    {
+      "id": "2c1f",
+      "name": "aa"
+    },
+    {
+      "id": "b087",
+      "name": "aaaaaa"
+    },
+    {
+      "id": "5cbb",
+      "name": ""
+    },
+    {
+      "id": "a172",
+      "name": ""
+    },
+    {
+      "id": "2e3a",
+      "name": "a"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "krisna@gmail.com",
+      "telephone": "081222616472",
+      "username": "krisna45",
+      "password": "inipassword"
+    },
+    {
+      "id": "b445",
+      "email": "ddddd@ff.bcomo",
+      "telephone": "080088",
+      "username": "hhhghg",
+      "password": "hghhghghg"
+    },
+    {
+      "id": "5dba",
+      "email": "daada@afafa.com",
+      "telephone": "343434",
+      "username": "sffsf",
+      "password": "sfsfsfssf"
+    }
+  ]
+}
